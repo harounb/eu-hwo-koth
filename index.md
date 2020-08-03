@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# EU Hwo King of the hill
 
-You can use the [editor on GitHub](https://github.com/harounb/eu-hwo-koth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Current King
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alfa
 
-### Markdown
+## Leaderboard
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Alfa (2 wins)
 
-```markdown
-Syntax highlighted code block
+## Rules
 
-# Header 1
-## Header 2
-### Header 3
+- Character locked to Hwoarang
+- King can choose between FT5 or FT10
+- Official TWT rules regarding stages, rounds, timer etc. apply
+- Customs are allowed
+- Kings can voluntarily abdicate if they don't anticipate playing any challenges within 7 days
+- Mods can reassign the King if no challenges have been completed within 7 days
+- Conventionally when reassigning we will go through past Kings starting with the most recent one to find the first one available to take challenges
 
-- Bulleted
-- List
+## Battle log
 
-1. Numbered
-2. List
+### 2020
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harounb/eu-hwo-koth/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Alfa vs EpicStoffer
+- Alfa vs Haroun | 5 - 3 | [YouTube](https://www.youtube.com/watch?v=ybdn4pBewN0)
+- Alfa vs Wiki
