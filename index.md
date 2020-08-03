@@ -1,4 +1,4 @@
-# EU Hwo King of the hill
+# EU Hwo King of the Hill
 
 ## Current King
 
